@@ -5,8 +5,7 @@
 - Implementing Internal Software for eCommerce Company
 
 ### 🌱 I’m currently learning ...
- - Computer Artchitecture 
- - Coding Theory
+ - Operating Systems 
  - Kubernetes
  - Jenkins
  - Bash
