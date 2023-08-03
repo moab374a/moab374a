@@ -9,9 +9,6 @@
  - Kubernetes
  - Jenkins
  - Bash
-
-#### 📫 How to reach me: 
- => void.tcp@gmail.com
 <!--
 **moab374a/moab374a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
